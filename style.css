@@ -1,0 +1,11 @@
+*{
+    font-family: 'Inter', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+}
+.title{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+inputBox{
+    border: 1px solid black ;
+}
